@@ -37,7 +37,7 @@ def handle_exception(failed_id):
 	error_records.append(failed_id)	
 	customer = ''
 	user = ''
-	file = open(server_log, "r")
+	file = openFile(server_log)
 	for line in file:
 	 	line = line.strip()
 	 	words = line.split()
@@ -62,6 +62,14 @@ def get_customer(user):
 	customer = row[0]
 	return customer
 
+def openFile(file, modifier="r"):
+    try:
+      fhandler = open(file, modifier)
+      return fhandler
+    except IOError:
+      print "Error: File " + file + " does not exist."
+      exit()
+
 with open("config.yaml", 'r') as stream:
     try:
         connection = yaml.load(stream)
@@ -75,17 +83,18 @@ passwd = connection.get('postgresql').get('password')
 port_id = connection.get('postgresql').get('port')
 
 
-target = open(report, 'w')
+target = openFile(report, 'w')
 target.write('{0:20} {1:38} {2:25} {3:10} {4:12} {5:5} {6:40} {7}\n'.format('Error_record', 'User', 'Customer', 'Date', 'Time', 'Type', 'Service', 'Status'))
 
 conn = psycopg2.connect(host=hostname, database=db, user=username, password=passwd, port=port_id)
 cursor = conn.cursor()
 
-with open(server_log, "r") as log:
+with openFile(server_log) as log:
 	read_log(log)
 
 target.close()
 conn.close()
+
 print "Parser execution SUCCESSFUL"
 print "Found " + str(len(error_records)) + " error records"
 print "Report saved to: " + report
