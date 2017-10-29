@@ -9,16 +9,29 @@ error_records = []
 server_log = "/home/geny/git/notsobad-testcase/server.log"
 report = "/home/geny/git/notsobad-testcase/report.log"
 
+"""Read server.log file line by line to search for failed records.
+   If error record found, handling execution to make_report()
+
+    :param log: file handler object pointing to server.log
+"""
 def read_log(log):
+	search_template = openFile(server_log)
 	for line in log:
 		line = line.strip()
 		words = line.split()
 		if error_found(words):
 			trace_id = get_id(words)
-			print "Error!!!!!!!!!!!!!!!!!!!: " + trace_id
+			print "ERROR! Trace id: " + trace_id
 			if trace_id not in error_records:
-				handle_exception(trace_id)
+				make_report(trace_id, search_template)
+	search_template.close()
 
+"""Checks if current record has ERROR status
+
+    :param words: list, containing parts of current record seperated by space
+
+    Return boolean value if record is failed
+"""
 def error_found(words):
 	return True if words[ERR_INDEX] == "ERROR" else False
 
@@ -27,11 +40,10 @@ def get_id(line):
 	trace_id = token[1]
 	return trace_id
 
-def handle_exception(failed_id):
+def make_report(failed_id, file):
 	error_records.append(failed_id)	
 	customer = ''
 	user = ''
-	file = openFile(server_log)
 	for line in file:
 	 	line = line.strip()
 	 	words = line.split()
@@ -42,7 +54,7 @@ def handle_exception(failed_id):
 				customer = get_customer(user)
 			target.write('{0:20} {1:38} {2:25} {3:10} {4:12} {5:5} {6:40} {7}\n'.format(curr_id, user, customer, words[0], words[1], words[2], words[7], ' '.join(words[9:])))
 	target.write('-------------------\n')
-	file.close()
+	file.seek(0)
 
 def get_customer(user):
 	query = " ".join((
