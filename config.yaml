@@ -1,0 +1,6 @@
+postgresql:
+    host: localhost
+    database: notsobad
+    user: postgres
+    password: postgres
+    port: 5432

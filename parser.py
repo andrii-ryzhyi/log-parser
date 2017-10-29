@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 import psycopg2
+import yaml
 
 ERR_INDEX = 2
 error_records = []
@@ -26,8 +27,7 @@ def handle_exception(failed_id):
 	error_records.append(failed_id)	
 	customer = ''
 	user = ''
-	#target.write('Error record: ' + failed_id + '\n')	
-	file = open("/home/geny/server.log", "r")
+	file = open("/home/geny/git/notsobad-testcase/server.log", "r")
 	for line in file:
 	 	line = line.strip()
 	 	words = line.split()
@@ -52,14 +52,26 @@ def get_customer(user):
 	customer = row[0]
 	return customer
 
+with open("config.yaml", 'r') as stream:
+    try:
+        connection = yaml.load(stream)
+    except yaml.YAMLError as exc:
+        print(exc)
 
-target = open("/home/geny/output.log", 'w')
+db = connection.get('postgresql').get('database')
+hostname = connection.get('postgresql').get('host')
+username = connection.get('postgresql').get('user')
+passwd = connection.get('postgresql').get('password')
+port_id = connection.get('postgresql').get('port')
+
+
+target = open("/home/geny/git/notsobad-testcase/output.log", 'w')
 target.write('{0:20} {1:38} {2:25} {3:10} {4:12} {5:5} {6:40} {7}\n'.format('Error_record', 'User', 'Customer', 'Date', 'Time', 'Type', 'Service', 'Status'))
 
-conn = psycopg2.connect(host="localhost",database="notsobad", user="postgres", password="postgres", port=5432)
+conn = psycopg2.connect(host=hostname, database=db, user=username, password=passwd, port=port_id)
 cursor = conn.cursor()
 
-with open("/home/geny/server.log", "r") as log:
+with open("/home/geny/git/notsobad-testcase/server.log", "r") as log:
 	read_log(log)
 
 target.close()
