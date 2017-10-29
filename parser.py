@@ -6,14 +6,24 @@ import yaml
 ERR_INDEX = 2
 error_records = []
 
+server_log = "/home/geny/git/notsobad-testcase/server.log"
+report = "/home/geny/git/notsobad-testcase/report.log"
+
+print "Server.log path: " + server_log
+answer = raw_input("Type in another path or press Enter: ")
+
+if len(answer) > 0:
+	server_log = answer
+
 def read_log(log):
 	for line in log:
 		line = line.strip()
 		words = line.split()
 		if error_found(words):
 			trace_id = get_id(words)
-			print("Error!!!!!!!!!!!!!!!!!!!: " + trace_id)
-			handle_exception(trace_id)
+			print "Error!!!!!!!!!!!!!!!!!!!: " + trace_id
+			if trace_id not in error_records:
+				handle_exception(trace_id)
 
 def error_found(words):
 	return True if words[ERR_INDEX] == "ERROR" else False
@@ -23,11 +33,11 @@ def get_id(line):
 	trace_id = token[1]
 	return trace_id
 
-def handle_exception(failed_id):	
+def handle_exception(failed_id):
 	error_records.append(failed_id)	
 	customer = ''
 	user = ''
-	file = open("/home/geny/git/notsobad-testcase/server.log", "r")
+	file = open(server_log, "r")
 	for line in file:
 	 	line = line.strip()
 	 	words = line.split()
@@ -56,7 +66,7 @@ with open("config.yaml", 'r') as stream:
     try:
         connection = yaml.load(stream)
     except yaml.YAMLError as exc:
-        print(exc)
+        print exc
 
 db = connection.get('postgresql').get('database')
 hostname = connection.get('postgresql').get('host')
@@ -65,19 +75,21 @@ passwd = connection.get('postgresql').get('password')
 port_id = connection.get('postgresql').get('port')
 
 
-target = open("/home/geny/git/notsobad-testcase/output.log", 'w')
+target = open(report, 'w')
 target.write('{0:20} {1:38} {2:25} {3:10} {4:12} {5:5} {6:40} {7}\n'.format('Error_record', 'User', 'Customer', 'Date', 'Time', 'Type', 'Service', 'Status'))
 
 conn = psycopg2.connect(host=hostname, database=db, user=username, password=passwd, port=port_id)
 cursor = conn.cursor()
 
-with open("/home/geny/git/notsobad-testcase/server.log", "r") as log:
+with open(server_log, "r") as log:
 	read_log(log)
 
 target.close()
 conn.close()
+print "Parser execution SUCCESSFUL"
+print "Found " + str(len(error_records)) + " error records"
+print "Report saved to: " + report
 
 #cursor.execute('SELECT version()')
-#version = cursor.fetchone()
-#print(version)
+#version = cursor.fetchone())
 
