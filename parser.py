@@ -2,6 +2,7 @@
 
 import psycopg2
 import yaml
+import os
 
 ERR_INDEX = 2
 error_records = []
@@ -123,6 +124,7 @@ if __name__ == "__main__":
 
 	if len(answer) > 0:
 		server_log = answer
+		report = os.getcwd() + "/report.log"
 
 	# writing headers into balnk report file
 	target = openFile(report, 'w')
