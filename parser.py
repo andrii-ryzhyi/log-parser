@@ -9,12 +9,6 @@ error_records = []
 server_log = "/home/geny/git/notsobad-testcase/server.log"
 report = "/home/geny/git/notsobad-testcase/report.log"
 
-print "Server.log path: " + server_log
-answer = raw_input("Type in another path or press Enter: ")
-
-if len(answer) > 0:
-	server_log = answer
-
 def read_log(log):
 	for line in log:
 		line = line.strip()
@@ -70,35 +64,48 @@ def openFile(file, modifier="r"):
       print "Error: File " + file + " does not exist."
       exit()
 
-with open("config.yaml", 'r') as stream:
-    try:
-        connection = yaml.load(stream)
-    except yaml.YAMLError as exc:
-        print exc
+def postgres_connect(yaml_conf):
+	with open(yaml_conf, 'r') as stream:
+		try:
+		    connection = yaml.load(stream)
+		except yaml.YAMLError as exc:
+		    print exc
 
-db = connection.get('postgresql').get('database')
-hostname = connection.get('postgresql').get('host')
-username = connection.get('postgresql').get('user')
-passwd = connection.get('postgresql').get('password')
-port_id = connection.get('postgresql').get('port')
+	db = connection.get('postgresql').get('database')
+	hostname = connection.get('postgresql').get('host')
+	username = connection.get('postgresql').get('user')
+	passwd = connection.get('postgresql').get('password')
+	port_id = connection.get('postgresql').get('port')
+	return "host={} dbname={} user={} password={} port={}".format(hostname, db, username, passwd, port_id)
 
+if __name__ == "__main__":
 
-target = openFile(report, 'w')
-target.write('{0:20} {1:38} {2:25} {3:10} {4:12} {5:5} {6:40} {7}\n'.format('Error_record', 'User', 'Customer', 'Date', 'Time', 'Type', 'Service', 'Status'))
+	# checking server log location with user
+	print "Server.log path: " + server_log
+	answer = raw_input("Type in another path or press Enter: ")
 
-conn = psycopg2.connect(host=hostname, database=db, user=username, password=passwd, port=port_id)
-cursor = conn.cursor()
+	if len(answer) > 0:
+		server_log = answer
 
-with openFile(server_log) as log:
-	read_log(log)
+	# writing headers into balnk report file
+	target = openFile(report, 'w')
+	target.write('{0:20} {1:38} {2:25} {3:10} {4:12} {5:5} {6:40} {7}\n'.format('Error_record', 'User', 'Customer', 'Date', 'Time', 'Type', 'Service', 'Status'))
 
-target.close()
-conn.close()
+	# getting posgresql connection string from yaml and establishing connection
+	cs = postgres_connect("config.yaml")
+	conn = psycopg2.connect(cs)
+	cursor = conn.cursor()
 
-print "Parser execution SUCCESSFUL"
-print "Found " + str(len(error_records)) + " error records"
-print "Report saved to: " + report
+	# start reading server.log files and catching error records
+	with openFile(server_log) as log:
+		read_log(log)
+
+	print "Parser execution SUCCESSFUL"
+	print "Found " + str(len(error_records)) + " error records"
+	print "Report saved to: " + report
+
+	conn.close()
+	target.close()
 
 #cursor.execute('SELECT version()')
 #version = cursor.fetchone())
-
