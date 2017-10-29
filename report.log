@@ -1,0 +1,703 @@
+Error_record         User                                   Customer                  Date       Time         Type  Service                                  Status
+8308e36e47f079e3     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.356 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 972 for user 9a626c6f-4952-4f58-b411-ce7a5d682aae
+8308e36e47f079e3     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.378 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 972
+-------------------
+d684941181e5e478     e8edb09b-b5c9-4650-a047-6a11b0f58bf2   NeverAgain                2017-05-26 22:09:59.380 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 984 for user e8edb09b-b5c9-4650-a047-6a11b0f58bf2
+d684941181e5e478     e8edb09b-b5c9-4650-a047-6a11b0f58bf2   NeverAgain                2017-05-26 22:09:59.388 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 984
+-------------------
+619c2e8476535588     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.385 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 995 for user 9e39248f-de28-4f25-a930-df06c21d9066
+619c2e8476535588     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.386 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 995
+-------------------
+bbee312d496cc803     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.390 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 982 for user b35e269c-c52d-469f-b234-d627a69a4fc2
+bbee312d496cc803     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.390 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 982
+-------------------
+49fbcb53586a448b     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.391 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 987 for user 68bbdd3a-925b-44e9-827a-42e4057611c1
+49fbcb53586a448b     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.391 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 987
+-------------------
+1f9202f50ff73c2f     7c5873b7-25ee-4a78-b538-defdbc45bf30   BestCompanyEver           2017-05-26 22:09:59.392 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 992 for user 7c5873b7-25ee-4a78-b538-defdbc45bf30
+1f9202f50ff73c2f     7c5873b7-25ee-4a78-b538-defdbc45bf30   BestCompanyEver           2017-05-26 22:09:59.418 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 992
+-------------------
+1029869a6d542487     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.397 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 985 for user 076ee4b2-d387-4704-84a8-39d7c1acbd4e
+1029869a6d542487     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.428 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 985
+-------------------
+13e884f763e9d0cf     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.431 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 984 for user a0eaa041-9299-4921-b490-2ebbf69b7e80
+13e884f763e9d0cf     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.431 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 984
+-------------------
+5fa6813837b6161e     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.399 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 954 for user 9e39248f-de28-4f25-a930-df06c21d9066
+5fa6813837b6161e     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.444 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 954
+-------------------
+0badedd6c046e348     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.401 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 977 for user a0eaa041-9299-4921-b490-2ebbf69b7e80
+0badedd6c046e348     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.401 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 977
+-------------------
+22efea9a7d632f42     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.404 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 990 for user d4a4afc5-876c-456c-bd7c-f354b81f386f
+22efea9a7d632f42     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.405 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 990
+-------------------
+21c05f4b510988f6     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.407 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 993 for user 1510a347-2fd9-4c32-b98f-29ad3c02900c
+21c05f4b510988f6     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.407 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 993
+-------------------
+9d7a63942ab49100     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.407 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 959 for user d4a4afc5-876c-456c-bd7c-f354b81f386f
+9d7a63942ab49100     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.407 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 959
+-------------------
+6eab27c039833b84     982fe57d-5f18-41c9-9f08-1bbfe60ed821   BestCompanyEver           2017-05-26 22:09:59.457 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 973 for user 982fe57d-5f18-41c9-9f08-1bbfe60ed821
+6eab27c039833b84     982fe57d-5f18-41c9-9f08-1bbfe60ed821   BestCompanyEver           2017-05-26 22:09:59.457 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 973
+-------------------
+1cae355975fcc21a     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.410 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 953 for user 5914cf02-5659-4925-bdb7-2fbe34df6ab7
+1cae355975fcc21a     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.410 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 953
+-------------------
+3120e264c1b7f955     20f258be-5d1b-4639-a99f-df4e7972d64b   Notsobad Privacy          2017-05-26 22:09:59.389 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 978 for user 20f258be-5d1b-4639-a99f-df4e7972d64b
+3120e264c1b7f955     20f258be-5d1b-4639-a99f-df4e7972d64b   Notsobad Privacy          2017-05-26 22:09:59.411 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 978
+-------------------
+86c7be2ecf6cfdb3     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.411 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 978 for user d4a4afc5-876c-456c-bd7c-f354b81f386f
+86c7be2ecf6cfdb3     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.411 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 978
+-------------------
+558a078772c53f5c     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.390 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 959 for user a0eaa041-9299-4921-b490-2ebbf69b7e80
+558a078772c53f5c     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.413 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 959
+-------------------
+83ea143a5b1971b8     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.465 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 976 for user 9a626c6f-4952-4f58-b411-ce7a5d682aae
+83ea143a5b1971b8     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.465 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 976
+-------------------
+b0479f0523265529     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.418 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 951 for user 3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe
+b0479f0523265529     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.470 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 951
+-------------------
+06694d8ea834c00c     530fec01-40a5-41ec-bab0-d12b39dd371d   NeverAgain                2017-05-26 22:09:59.424 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 982 for user 530fec01-40a5-41ec-bab0-d12b39dd371d
+06694d8ea834c00c     530fec01-40a5-41ec-bab0-d12b39dd371d   NeverAgain                2017-05-26 22:09:59.507 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 982
+-------------------
+6a65e9d5b95f8f49     982fe57d-5f18-41c9-9f08-1bbfe60ed821   BestCompanyEver           2017-05-26 22:09:59.515 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 963 for user 982fe57d-5f18-41c9-9f08-1bbfe60ed821
+6a65e9d5b95f8f49     982fe57d-5f18-41c9-9f08-1bbfe60ed821   BestCompanyEver           2017-05-26 22:09:59.515 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 963
+-------------------
+90451da9c173a97e     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.397 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 961 for user 1510a347-2fd9-4c32-b98f-29ad3c02900c
+90451da9c173a97e     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.429 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 961
+-------------------
+6f01ac5d969bb81b     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.436 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 977 for user 3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe
+6f01ac5d969bb81b     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.442 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 977
+-------------------
+7e4da9e061a14bda     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.443 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 982 for user 9a626c6f-4952-4f58-b411-ce7a5d682aae
+7e4da9e061a14bda     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.443 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 982
+-------------------
+94c4e0ce32e42d48     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.443 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 997 for user 5914cf02-5659-4925-bdb7-2fbe34df6ab7
+94c4e0ce32e42d48     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.525 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 997
+-------------------
+84ea6336187b29d7     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.446 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 963 for user 4ab00d77-b960-473e-ae22-7c3b503d525e
+84ea6336187b29d7     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.446 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 963
+-------------------
+9d407707e72e086e     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.401 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 974 for user 1ebb238e-cafe-4d48-b145-2c582bacd0a2
+9d407707e72e086e     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.446 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 974
+-------------------
+c1341f7c953459db     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.531 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 974 for user b35e269c-c52d-469f-b234-d627a69a4fc2
+c1341f7c953459db     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.532 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 974
+-------------------
+b71665e046f4a37c     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.532 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 999 for user a0eaa041-9299-4921-b490-2ebbf69b7e80
+b71665e046f4a37c     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.533 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 999
+-------------------
+bf3c3636c3c882d6     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.404 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 954 for user 1510a347-2fd9-4c32-b98f-29ad3c02900c
+bf3c3636c3c882d6     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.451 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 954
+-------------------
+2f97c9f6bfc731f2     982fe57d-5f18-41c9-9f08-1bbfe60ed821   BestCompanyEver           2017-05-26 22:09:59.405 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 985 for user 982fe57d-5f18-41c9-9f08-1bbfe60ed821
+2f97c9f6bfc731f2     982fe57d-5f18-41c9-9f08-1bbfe60ed821   BestCompanyEver           2017-05-26 22:09:59.453 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 985
+-------------------
+e0d455cd75e45563     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.541 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 999 for user 076ee4b2-d387-4704-84a8-39d7c1acbd4e
+e0d455cd75e45563     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.541 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 999
+-------------------
+a265a41beda73780     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.541 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 984 for user 68bbdd3a-925b-44e9-827a-42e4057611c1
+a265a41beda73780     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.543 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 984
+-------------------
+a4ccdc70e21d2935     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.458 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 961 for user 1510a347-2fd9-4c32-b98f-29ad3c02900c
+a4ccdc70e21d2935     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.546 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 961
+-------------------
+6003d47d73d29b54     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.459 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 997 for user 4ab00d77-b960-473e-ae22-7c3b503d525e
+6003d47d73d29b54     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.459 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 997
+-------------------
+30fa69bed7ad5632     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.461 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 975 for user 1ebb238e-cafe-4d48-b145-2c582bacd0a2
+30fa69bed7ad5632     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.549 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 975
+-------------------
+b6e8a6efbf0509e2     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.550 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 982 for user 9e39248f-de28-4f25-a930-df06c21d9066
+b6e8a6efbf0509e2     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.550 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 982
+-------------------
+4b42674028abcd68     7c5873b7-25ee-4a78-b538-defdbc45bf30   BestCompanyEver           2017-05-26 22:09:59.414 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 971 for user 7c5873b7-25ee-4a78-b538-defdbc45bf30
+4b42674028abcd68     7c5873b7-25ee-4a78-b538-defdbc45bf30   BestCompanyEver           2017-05-26 22:09:59.465 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 971
+-------------------
+b3139a4a7f248af7     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.416 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 955 for user a0eaa041-9299-4921-b490-2ebbf69b7e80
+b3139a4a7f248af7     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.468 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 955
+-------------------
+dc7be6ad3c5d29a2     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.469 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 987 for user 68bbdd3a-925b-44e9-827a-42e4057611c1
+dc7be6ad3c5d29a2     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.469 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 987
+-------------------
+7f5ec4ac1d1a2e72     982fe57d-5f18-41c9-9f08-1bbfe60ed821   BestCompanyEver           2017-05-26 22:09:59.418 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 997 for user 982fe57d-5f18-41c9-9f08-1bbfe60ed821
+7f5ec4ac1d1a2e72     982fe57d-5f18-41c9-9f08-1bbfe60ed821   BestCompanyEver           2017-05-26 22:09:59.469 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 997
+-------------------
+61f298a5368c3665     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.418 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 986 for user 1ebb238e-cafe-4d48-b145-2c582bacd0a2
+61f298a5368c3665     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.469 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 986
+-------------------
+3bd3b021ae7a562c     f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d   What Where When           2017-05-26 22:09:59.420 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 975 for user f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d
+3bd3b021ae7a562c     f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d   What Where When           2017-05-26 22:09:59.473 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 975
+-------------------
+4100cbdb9367d8f1     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.564 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 962 for user d4a4afc5-876c-456c-bd7c-f354b81f386f
+4100cbdb9367d8f1     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.565 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 962
+-------------------
+e20a9e5a66ff49d5     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.505 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 951 for user 076ee4b2-d387-4704-84a8-39d7c1acbd4e
+e20a9e5a66ff49d5     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.505 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 951
+-------------------
+75adc30ee81350a2     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.568 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 987 for user d4a4afc5-876c-456c-bd7c-f354b81f386f
+75adc30ee81350a2     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.568 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 987
+-------------------
+3d448e2a3cf38feb     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.510 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 967 for user 1ebb238e-cafe-4d48-b145-2c582bacd0a2
+3d448e2a3cf38feb     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.571 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 967
+-------------------
+10880320727f84e7     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.426 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 996 for user 076ee4b2-d387-4704-84a8-39d7c1acbd4e
+10880320727f84e7     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.513 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 996
+-------------------
+187b42a6afd55d81     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.427 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 997 for user 9a626c6f-4952-4f58-b411-ce7a5d682aae
+187b42a6afd55d81     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.516 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 997
+-------------------
+5ad91c98889f64ba     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.575 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 997 for user d4a4afc5-876c-456c-bd7c-f354b81f386f
+5ad91c98889f64ba     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.576 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 997
+-------------------
+330ed297ea898c69     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.434 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 986 for user d4a4afc5-876c-456c-bd7c-f354b81f386f
+330ed297ea898c69     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.523 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 986
+-------------------
+1ca1ae2e20e96837     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.523 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 968 for user 5914cf02-5659-4925-bdb7-2fbe34df6ab7
+1ca1ae2e20e96837     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.579 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 968
+-------------------
+d5a1b39fa782f34c     982fe57d-5f18-41c9-9f08-1bbfe60ed821   BestCompanyEver           2017-05-26 22:09:59.524 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 982 for user 982fe57d-5f18-41c9-9f08-1bbfe60ed821
+d5a1b39fa782f34c     982fe57d-5f18-41c9-9f08-1bbfe60ed821   BestCompanyEver           2017-05-26 22:09:59.524 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 982
+-------------------
+43d2dca247cb3a20     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.444 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 974 for user 4ab00d77-b960-473e-ae22-7c3b503d525e
+43d2dca247cb3a20     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.527 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 974
+-------------------
+a5f4d8275ed656cb     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.529 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 972 for user 1510a347-2fd9-4c32-b98f-29ad3c02900c
+a5f4d8275ed656cb     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.587 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 972
+-------------------
+1cd23bd544f220b2     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.588 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 967 for user 076ee4b2-d387-4704-84a8-39d7c1acbd4e
+1cd23bd544f220b2     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.589 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 967
+-------------------
+9556b46c026f8f3a     7c5873b7-25ee-4a78-b538-defdbc45bf30   BestCompanyEver           2017-05-26 22:09:59.448 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 984 for user 7c5873b7-25ee-4a78-b538-defdbc45bf30
+9556b46c026f8f3a     7c5873b7-25ee-4a78-b538-defdbc45bf30   BestCompanyEver           2017-05-26 22:09:59.534 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 984
+-------------------
+1d955a61636cd5df     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.594 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 980 for user b35e269c-c52d-469f-b234-d627a69a4fc2
+1d955a61636cd5df     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.594 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 980
+-------------------
+fd8bfada68d6a5f6     20f258be-5d1b-4639-a99f-df4e7972d64b   Notsobad Privacy          2017-05-26 22:09:59.587 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 977 for user 20f258be-5d1b-4639-a99f-df4e7972d64b
+fd8bfada68d6a5f6     20f258be-5d1b-4639-a99f-df4e7972d64b   Notsobad Privacy          2017-05-26 22:09:59.592 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 977
+-------------------
+0918bb07205c87cb     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.593 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 963 for user 9e39248f-de28-4f25-a930-df06c21d9066
+0918bb07205c87cb     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.594 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 963
+-------------------
+b4da58e280554af5     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.535 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 960 for user 0b2b7541-5239-4a98-91a8-3082107b77dd
+b4da58e280554af5     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.594 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 960
+-------------------
+6764082f97e77853     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.541 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 989 for user 4ab00d77-b960-473e-ae22-7c3b503d525e
+6764082f97e77853     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.541 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 989
+-------------------
+7a9dc5a26ad4878c     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.590 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 992 for user a0eaa041-9299-4921-b490-2ebbf69b7e80
+7a9dc5a26ad4878c     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.595 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 992
+-------------------
+27aba57f79af7d07     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.595 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 959 for user 076ee4b2-d387-4704-84a8-39d7c1acbd4e
+27aba57f79af7d07     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.601 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 959
+-------------------
+baca27ae24cbd079     e8edb09b-b5c9-4650-a047-6a11b0f58bf2   NeverAgain                2017-05-26 22:09:59.602 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 975 for user e8edb09b-b5c9-4650-a047-6a11b0f58bf2
+baca27ae24cbd079     e8edb09b-b5c9-4650-a047-6a11b0f58bf2   NeverAgain                2017-05-26 22:09:59.602 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 975
+-------------------
+67872ad616e717c8     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.598 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 968 for user 1510a347-2fd9-4c32-b98f-29ad3c02900c
+67872ad616e717c8     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.598 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 968
+-------------------
+bd8fd3a70c0174d6     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.543 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 971 for user b35e269c-c52d-469f-b234-d627a69a4fc2
+bd8fd3a70c0174d6     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.544 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 971
+-------------------
+832ad6ac65a2463d     20f258be-5d1b-4639-a99f-df4e7972d64b   Notsobad Privacy          2017-05-26 22:09:59.538 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 993 for user 20f258be-5d1b-4639-a99f-df4e7972d64b
+832ad6ac65a2463d     20f258be-5d1b-4639-a99f-df4e7972d64b   Notsobad Privacy          2017-05-26 22:09:59.600 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 993
+-------------------
+072add59f8fdc127     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.458 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 973 for user 0b2b7541-5239-4a98-91a8-3082107b77dd
+072add59f8fdc127     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.545 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 973
+-------------------
+6fa6a8dbcba0bcee     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.546 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 987 for user b35e269c-c52d-469f-b234-d627a69a4fc2
+6fa6a8dbcba0bcee     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.608 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 987
+-------------------
+97effc3e9494621e     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.547 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 982 for user a0eaa041-9299-4921-b490-2ebbf69b7e80
+97effc3e9494621e     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.608 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 982
+-------------------
+c5addc1624099370     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.548 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 970 for user d4a4afc5-876c-456c-bd7c-f354b81f386f
+c5addc1624099370     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.613 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 970
+-------------------
+337c4fb1a332d245     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.463 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 953 for user 4ab00d77-b960-473e-ae22-7c3b503d525e
+337c4fb1a332d245     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.551 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 953
+-------------------
+6b441296d79b9d50     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.463 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 980 for user 9a626c6f-4952-4f58-b411-ce7a5d682aae
+6b441296d79b9d50     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.552 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 980
+-------------------
+1007fd4feddd9d6b     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.553 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 992 for user 0b2b7541-5239-4a98-91a8-3082107b77dd
+1007fd4feddd9d6b     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.621 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 992
+-------------------
+766ca76c865886bd     530fec01-40a5-41ec-bab0-d12b39dd371d   NeverAgain                2017-05-26 22:09:59.622 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 994 for user 530fec01-40a5-41ec-bab0-d12b39dd371d
+766ca76c865886bd     530fec01-40a5-41ec-bab0-d12b39dd371d   NeverAgain                2017-05-26 22:09:59.623 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 994
+-------------------
+d8e7783666fae936     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.552 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 980 for user 9e39248f-de28-4f25-a930-df06c21d9066
+d8e7783666fae936     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.620 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 980
+-------------------
+69180dd357292277     982fe57d-5f18-41c9-9f08-1bbfe60ed821   BestCompanyEver           2017-05-26 22:09:59.555 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 968 for user 982fe57d-5f18-41c9-9f08-1bbfe60ed821
+69180dd357292277     982fe57d-5f18-41c9-9f08-1bbfe60ed821   BestCompanyEver           2017-05-26 22:09:59.555 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 968
+-------------------
+c7377940e4a54f17     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.628 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 953 for user b35e269c-c52d-469f-b234-d627a69a4fc2
+c7377940e4a54f17     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.629 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 953
+-------------------
+0cdf4a8a709e6f84     f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d   What Where When           2017-05-26 22:09:59.557 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 966 for user f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d
+0cdf4a8a709e6f84     f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d   What Where When           2017-05-26 22:09:59.558 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 966
+-------------------
+f12d149d9c486869     20f258be-5d1b-4639-a99f-df4e7972d64b   Notsobad Privacy          2017-05-26 22:09:59.559 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 999 for user 20f258be-5d1b-4639-a99f-df4e7972d64b
+f12d149d9c486869     20f258be-5d1b-4639-a99f-df4e7972d64b   Notsobad Privacy          2017-05-26 22:09:59.559 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 999
+-------------------
+0f42fcfee360a5b0     530fec01-40a5-41ec-bab0-d12b39dd371d   NeverAgain                2017-05-26 22:09:59.632 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 961 for user 530fec01-40a5-41ec-bab0-d12b39dd371d
+0f42fcfee360a5b0     530fec01-40a5-41ec-bab0-d12b39dd371d   NeverAgain                2017-05-26 22:09:59.634 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 961
+-------------------
+2926b42fb9295cf4     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.469 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 996 for user 9a626c6f-4952-4f58-b411-ce7a5d682aae
+2926b42fb9295cf4     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.559 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 996
+-------------------
+04410ac34b2d8007     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.630 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 959 for user 3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe
+04410ac34b2d8007     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.632 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 959
+-------------------
+8c5dc4856a9357f2     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.633 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 989 for user 3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe
+8c5dc4856a9357f2     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.634 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 989
+-------------------
+b85f671077525ba3     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.631 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 958 for user 076ee4b2-d387-4704-84a8-39d7c1acbd4e
+b85f671077525ba3     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.633 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 958
+-------------------
+eaa65aacb3f92719     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.633 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 984 for user d4a4afc5-876c-456c-bd7c-f354b81f386f
+eaa65aacb3f92719     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.633 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 984
+-------------------
+feed4f4ed6184c43     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.471 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 954 for user 5914cf02-5659-4925-bdb7-2fbe34df6ab7
+feed4f4ed6184c43     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.562 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 954
+-------------------
+83dec1fc381a2973     f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d   What Where When           2017-05-26 22:09:59.473 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 984 for user f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d
+83dec1fc381a2973     f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d   What Where When           2017-05-26 22:09:59.563 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 984
+-------------------
+86ad70914ca7dc61     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.473 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 975 for user 5914cf02-5659-4925-bdb7-2fbe34df6ab7
+86ad70914ca7dc61     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.563 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 975
+-------------------
+2830e04e9b65cd68     20f258be-5d1b-4639-a99f-df4e7972d64b   Notsobad Privacy          2017-05-26 22:09:59.564 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 977 for user 20f258be-5d1b-4639-a99f-df4e7972d64b
+2830e04e9b65cd68     20f258be-5d1b-4639-a99f-df4e7972d64b   Notsobad Privacy          2017-05-26 22:09:59.564 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 977
+-------------------
+c38d3a670d7e0114     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.565 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 970 for user 9e39248f-de28-4f25-a930-df06c21d9066
+c38d3a670d7e0114     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.644 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 970
+-------------------
+e665d41e33fc6e56     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.647 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 963 for user 5914cf02-5659-4925-bdb7-2fbe34df6ab7
+e665d41e33fc6e56     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.647 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 963
+-------------------
+14f623b0917687d4     7c5873b7-25ee-4a78-b538-defdbc45bf30   BestCompanyEver           2017-05-26 22:09:59.510 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 954 for user 7c5873b7-25ee-4a78-b538-defdbc45bf30
+14f623b0917687d4     7c5873b7-25ee-4a78-b538-defdbc45bf30   BestCompanyEver           2017-05-26 22:09:59.571 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 954
+-------------------
+24071abd66d4b499     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.571 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 964 for user 0b2b7541-5239-4a98-91a8-3082107b77dd
+24071abd66d4b499     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.654 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 964
+-------------------
+b6479233507f6688     e8edb09b-b5c9-4650-a047-6a11b0f58bf2   NeverAgain                2017-05-26 22:09:59.572 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 952 for user e8edb09b-b5c9-4650-a047-6a11b0f58bf2
+b6479233507f6688     e8edb09b-b5c9-4650-a047-6a11b0f58bf2   NeverAgain                2017-05-26 22:09:59.572 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 952
+-------------------
+5d52fd8209382b9e     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.573 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 970 for user d4a4afc5-876c-456c-bd7c-f354b81f386f
+5d52fd8209382b9e     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.657 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 970
+-------------------
+2072f9f568026270     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.573 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 995 for user 076ee4b2-d387-4704-84a8-39d7c1acbd4e
+2072f9f568026270     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.573 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 995
+-------------------
+740d2ff47170ac3e     7c5873b7-25ee-4a78-b538-defdbc45bf30   BestCompanyEver           2017-05-26 22:09:59.573 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 984 for user 7c5873b7-25ee-4a78-b538-defdbc45bf30
+740d2ff47170ac3e     7c5873b7-25ee-4a78-b538-defdbc45bf30   BestCompanyEver           2017-05-26 22:09:59.573 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 984
+-------------------
+6b35d84026720f49     982fe57d-5f18-41c9-9f08-1bbfe60ed821   BestCompanyEver           2017-05-26 22:09:59.573 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 991 for user 982fe57d-5f18-41c9-9f08-1bbfe60ed821
+6b35d84026720f49     982fe57d-5f18-41c9-9f08-1bbfe60ed821   BestCompanyEver           2017-05-26 22:09:59.574 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 991
+-------------------
+8ad0f74b8d46f4a4     f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d   What Where When           2017-05-26 22:09:59.575 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 997 for user f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d
+8ad0f74b8d46f4a4     f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d   What Where When           2017-05-26 22:09:59.660 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 997
+-------------------
+978c52bbabb97398     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.575 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 986 for user 1ebb238e-cafe-4d48-b145-2c582bacd0a2
+978c52bbabb97398     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.660 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 986
+-------------------
+80c405f8cf4c63b2     f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d   What Where When           2017-05-26 22:09:59.578 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 994 for user f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d
+80c405f8cf4c63b2     f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d   What Where When           2017-05-26 22:09:59.578 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 994
+-------------------
+e554711e211df646     e8edb09b-b5c9-4650-a047-6a11b0f58bf2   NeverAgain                2017-05-26 22:09:59.667 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 999 for user e8edb09b-b5c9-4650-a047-6a11b0f58bf2
+e554711e211df646     e8edb09b-b5c9-4650-a047-6a11b0f58bf2   NeverAgain                2017-05-26 22:09:59.667 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 999
+-------------------
+d37164ca5b62650c     982fe57d-5f18-41c9-9f08-1bbfe60ed821   BestCompanyEver           2017-05-26 22:09:59.579 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 981 for user 982fe57d-5f18-41c9-9f08-1bbfe60ed821
+d37164ca5b62650c     982fe57d-5f18-41c9-9f08-1bbfe60ed821   BestCompanyEver           2017-05-26 22:09:59.579 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 981
+-------------------
+e0384c4d850c45ec     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.579 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 956 for user 4ab00d77-b960-473e-ae22-7c3b503d525e
+e0384c4d850c45ec     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.670 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 956
+-------------------
+fce5356b42590f21     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.579 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 965 for user a0eaa041-9299-4921-b490-2ebbf69b7e80
+fce5356b42590f21     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.670 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 965
+-------------------
+f853d1c9689699fd     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.579 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 965 for user 1ebb238e-cafe-4d48-b145-2c582bacd0a2
+f853d1c9689699fd     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.670 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 965
+-------------------
+dabf9667719e1d36     7c5873b7-25ee-4a78-b538-defdbc45bf30   BestCompanyEver           2017-05-26 22:09:59.672 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 985 for user 7c5873b7-25ee-4a78-b538-defdbc45bf30
+dabf9667719e1d36     7c5873b7-25ee-4a78-b538-defdbc45bf30   BestCompanyEver           2017-05-26 22:09:59.672 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 985
+-------------------
+adfee69210c10816     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.677 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 987 for user 9e39248f-de28-4f25-a930-df06c21d9066
+adfee69210c10816     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.677 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 987
+-------------------
+207b53f37fcdf66d     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.585 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 971 for user 9e39248f-de28-4f25-a930-df06c21d9066
+207b53f37fcdf66d     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.585 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 971
+-------------------
+f656a57488ec74ae     530fec01-40a5-41ec-bab0-d12b39dd371d   NeverAgain                2017-05-26 22:09:59.682 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 970 for user 530fec01-40a5-41ec-bab0-d12b39dd371d
+f656a57488ec74ae     530fec01-40a5-41ec-bab0-d12b39dd371d   NeverAgain                2017-05-26 22:09:59.682 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 970
+-------------------
+a2933decfc7b3ce1     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.683 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 994 for user 0b2b7541-5239-4a98-91a8-3082107b77dd
+a2933decfc7b3ce1     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.683 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 994
+-------------------
+2f52480cc40fffe9     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.529 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 986 for user 3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe
+2f52480cc40fffe9     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.587 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 986
+-------------------
+f75c53427d942189     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.588 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 999 for user 3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe
+f75c53427d942189     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.588 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 999
+-------------------
+4a8d64a19ffa79ac     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.534 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 989 for user a0eaa041-9299-4921-b490-2ebbf69b7e80
+4a8d64a19ffa79ac     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.589 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 989
+-------------------
+5504ea1085e038bf     530fec01-40a5-41ec-bab0-d12b39dd371d   NeverAgain                2017-05-26 22:09:59.689 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 978 for user 530fec01-40a5-41ec-bab0-d12b39dd371d
+5504ea1085e038bf     530fec01-40a5-41ec-bab0-d12b39dd371d   NeverAgain                2017-05-26 22:09:59.689 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 978
+-------------------
+ae00632087a27b26     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.592 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 965 for user 9e39248f-de28-4f25-a930-df06c21d9066
+ae00632087a27b26     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.696 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 965
+-------------------
+6dd9b913bd1dff2f     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.595 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 960 for user 68bbdd3a-925b-44e9-827a-42e4057611c1
+6dd9b913bd1dff2f     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.703 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 960
+-------------------
+ec6c47428c8966c9     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.594 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 981 for user 1ebb238e-cafe-4d48-b145-2c582bacd0a2
+ec6c47428c8966c9     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.599 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 981
+-------------------
+8274dbdc64850b3d     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.711 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 993 for user 076ee4b2-d387-4704-84a8-39d7c1acbd4e
+8274dbdc64850b3d     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.711 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 993
+-------------------
+ac02735f2518fbfe     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.712 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 959 for user 3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe
+ac02735f2518fbfe     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.712 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 959
+-------------------
+e4b6c2d71af0e0c0     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.716 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 999 for user 9e39248f-de28-4f25-a930-df06c21d9066
+e4b6c2d71af0e0c0     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.716 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 999
+-------------------
+4d658815c62ea5bd     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.603 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 997 for user a0eaa041-9299-4921-b490-2ebbf69b7e80
+4d658815c62ea5bd     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.720 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 997
+-------------------
+7a7bb7032c06410e     e8edb09b-b5c9-4650-a047-6a11b0f58bf2   NeverAgain                2017-05-26 22:09:59.545 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 959 for user e8edb09b-b5c9-4650-a047-6a11b0f58bf2
+7a7bb7032c06410e     e8edb09b-b5c9-4650-a047-6a11b0f58bf2   NeverAgain                2017-05-26 22:09:59.605 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 959
+-------------------
+e066e9f5aa2a8504     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.601 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 998 for user 4ab00d77-b960-473e-ae22-7c3b503d525e
+e066e9f5aa2a8504     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.606 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 998
+-------------------
+3444142eb6e18d4d     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.603 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 957 for user 4ab00d77-b960-473e-ae22-7c3b503d525e
+3444142eb6e18d4d     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.608 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 957
+-------------------
+e054cc5f5251c8af     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.608 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 975 for user 4ab00d77-b960-473e-ae22-7c3b503d525e
+e054cc5f5251c8af     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.727 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 975
+-------------------
+0ebe8f94bef40ae3     7c5873b7-25ee-4a78-b538-defdbc45bf30   BestCompanyEver           2017-05-26 22:09:59.605 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 974 for user 7c5873b7-25ee-4a78-b538-defdbc45bf30
+0ebe8f94bef40ae3     7c5873b7-25ee-4a78-b538-defdbc45bf30   BestCompanyEver           2017-05-26 22:09:59.610 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 974
+-------------------
+b1f62d7dfcab3b6a     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.610 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 974 for user 68bbdd3a-925b-44e9-827a-42e4057611c1
+b1f62d7dfcab3b6a     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.729 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 974
+-------------------
+3882d38bc150fc07     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.611 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 977 for user 9a626c6f-4952-4f58-b411-ce7a5d682aae
+3882d38bc150fc07     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.731 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 977
+-------------------
+1dcd49c1db523715     530fec01-40a5-41ec-bab0-d12b39dd371d   NeverAgain                2017-05-26 22:09:59.611 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 993 for user 530fec01-40a5-41ec-bab0-d12b39dd371d
+1dcd49c1db523715     530fec01-40a5-41ec-bab0-d12b39dd371d   NeverAgain                2017-05-26 22:09:59.611 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 993
+-------------------
+50fd171ac5504432     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.612 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 963 for user 4ab00d77-b960-473e-ae22-7c3b503d525e
+50fd171ac5504432     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.612 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 963
+-------------------
+e61f9764f3afc5cd     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.615 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 967 for user 1510a347-2fd9-4c32-b98f-29ad3c02900c
+e61f9764f3afc5cd     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.615 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 967
+-------------------
+635bd588b1a527dd     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.615 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 965 for user 68bbdd3a-925b-44e9-827a-42e4057611c1
+635bd588b1a527dd     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.741 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 965
+-------------------
+f3b2ded701fb8267     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.616 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 988 for user 9e39248f-de28-4f25-a930-df06c21d9066
+f3b2ded701fb8267     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.743 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 988
+-------------------
+5b271405538c8d02     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.550 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 976 for user 1510a347-2fd9-4c32-b98f-29ad3c02900c
+5b271405538c8d02     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.617 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 976
+-------------------
+bf8f3d677e076dd7     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.551 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 962 for user a0eaa041-9299-4921-b490-2ebbf69b7e80
+bf8f3d677e076dd7     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.620 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 962
+-------------------
+b85e725763bd2623     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.623 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 969 for user 4ab00d77-b960-473e-ae22-7c3b503d525e
+b85e725763bd2623     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.623 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 969
+-------------------
+dde27db985863cfb     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.623 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 999 for user 3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe
+dde27db985863cfb     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.623 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 999
+-------------------
+60f841dc30e17829     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.624 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 956 for user 3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe
+60f841dc30e17829     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.627 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 956
+-------------------
+85495239e6ebdd89     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.627 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 996 for user 9e39248f-de28-4f25-a930-df06c21d9066
+85495239e6ebdd89     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.753 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 996
+-------------------
+a96507eba70704db     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.557 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 984 for user 5914cf02-5659-4925-bdb7-2fbe34df6ab7
+a96507eba70704db     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.629 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 984
+-------------------
+fba76a415a154976     530fec01-40a5-41ec-bab0-d12b39dd371d   NeverAgain                2017-05-26 22:09:59.633 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 993 for user 530fec01-40a5-41ec-bab0-d12b39dd371d
+fba76a415a154976     530fec01-40a5-41ec-bab0-d12b39dd371d   NeverAgain                2017-05-26 22:09:59.758 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 993
+-------------------
+522a56b1a1247e54     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.633 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 964 for user 0b2b7541-5239-4a98-91a8-3082107b77dd
+522a56b1a1247e54     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.758 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 964
+-------------------
+e92c1f987018666c     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.634 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 969 for user 3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe
+e92c1f987018666c     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.759 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 969
+-------------------
+a5d262aaf56211f6     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.635 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 993 for user 4ab00d77-b960-473e-ae22-7c3b503d525e
+a5d262aaf56211f6     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.759 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 993
+-------------------
+b57995b3f218edf2     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.635 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 986 for user 3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe
+b57995b3f218edf2     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.759 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 986
+-------------------
+e58e75e4fae1b0f0     20f258be-5d1b-4639-a99f-df4e7972d64b   Notsobad Privacy          2017-05-26 22:09:59.636 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 976 for user 20f258be-5d1b-4639-a99f-df4e7972d64b
+e58e75e4fae1b0f0     20f258be-5d1b-4639-a99f-df4e7972d64b   Notsobad Privacy          2017-05-26 22:09:59.760 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 976
+-------------------
+d6a0cc3d22563f0e     7c5873b7-25ee-4a78-b538-defdbc45bf30   BestCompanyEver           2017-05-26 22:09:59.637 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 995 for user 7c5873b7-25ee-4a78-b538-defdbc45bf30
+d6a0cc3d22563f0e     7c5873b7-25ee-4a78-b538-defdbc45bf30   BestCompanyEver           2017-05-26 22:09:59.637 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 995
+-------------------
+71ba99dcab4bf213     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.638 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 982 for user 9e39248f-de28-4f25-a930-df06c21d9066
+71ba99dcab4bf213     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.761 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 982
+-------------------
+4545bf893c801802     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.640 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 991 for user 9a626c6f-4952-4f58-b411-ce7a5d682aae
+4545bf893c801802     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.762 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 991
+-------------------
+69c3257c9c2c965a     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.563 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 983 for user 68bbdd3a-925b-44e9-827a-42e4057611c1
+69c3257c9c2c965a     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.640 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 983
+-------------------
+a7dcab4d53e0314f     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.641 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 990 for user d4a4afc5-876c-456c-bd7c-f354b81f386f
+a7dcab4d53e0314f     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.763 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 990
+-------------------
+45613b79e482f497     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.641 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 982 for user 076ee4b2-d387-4704-84a8-39d7c1acbd4e
+45613b79e482f497     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.641 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 982
+-------------------
+0f02fd1d8031c3ef     f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d   What Where When           2017-05-26 22:09:59.564 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 971 for user f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d
+0f02fd1d8031c3ef     f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d   What Where When           2017-05-26 22:09:59.643 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 971
+-------------------
+4238d32a63cac87a     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.643 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 957 for user 076ee4b2-d387-4704-84a8-39d7c1acbd4e
+4238d32a63cac87a     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.765 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 957
+-------------------
+0e2f4b716f4f74d3     530fec01-40a5-41ec-bab0-d12b39dd371d   NeverAgain                2017-05-26 22:09:59.643 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 976 for user 530fec01-40a5-41ec-bab0-d12b39dd371d
+0e2f4b716f4f74d3     530fec01-40a5-41ec-bab0-d12b39dd371d   NeverAgain                2017-05-26 22:09:59.765 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 976
+-------------------
+c73523ada938b78a     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.644 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 983 for user 076ee4b2-d387-4704-84a8-39d7c1acbd4e
+c73523ada938b78a     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.644 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 983
+-------------------
+26ff89a53f6b78fe     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.646 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 978 for user 1ebb238e-cafe-4d48-b145-2c582bacd0a2
+26ff89a53f6b78fe     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.647 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 978
+-------------------
+0b78e9ac337753b5     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.647 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 998 for user b35e269c-c52d-469f-b234-d627a69a4fc2
+0b78e9ac337753b5     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.767 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 998
+-------------------
+42422e789a111de1     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.649 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 966 for user 68bbdd3a-925b-44e9-827a-42e4057611c1
+42422e789a111de1     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.649 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 966
+-------------------
+23f409dd6410ec1a     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.649 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 978 for user a0eaa041-9299-4921-b490-2ebbf69b7e80
+23f409dd6410ec1a     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.769 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 978
+-------------------
+de93358ca4cee722     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.650 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 965 for user 5914cf02-5659-4925-bdb7-2fbe34df6ab7
+de93358ca4cee722     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.769 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 965
+-------------------
+290e31471954e826     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.651 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 996 for user 68bbdd3a-925b-44e9-827a-42e4057611c1
+290e31471954e826     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.651 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 996
+-------------------
+23e0bd68131cd129     f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d   What Where When           2017-05-26 22:09:59.569 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 986 for user f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d
+23e0bd68131cd129     f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d   What Where When           2017-05-26 22:09:59.651 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 986
+-------------------
+3dc5717dae00800f     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.653 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 978 for user b35e269c-c52d-469f-b234-d627a69a4fc2
+3dc5717dae00800f     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.653 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 978
+-------------------
+9055982a74b922d2     530fec01-40a5-41ec-bab0-d12b39dd371d   NeverAgain                2017-05-26 22:09:59.571 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 994 for user 530fec01-40a5-41ec-bab0-d12b39dd371d
+9055982a74b922d2     530fec01-40a5-41ec-bab0-d12b39dd371d   NeverAgain                2017-05-26 22:09:59.654 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 994
+-------------------
+de91a2eac1cfb742     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.575 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 956 for user 68bbdd3a-925b-44e9-827a-42e4057611c1
+de91a2eac1cfb742     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.660 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 956
+-------------------
+0c97bd23967e23f9     20f258be-5d1b-4639-a99f-df4e7972d64b   Notsobad Privacy          2017-05-26 22:09:59.667 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 987 for user 20f258be-5d1b-4639-a99f-df4e7972d64b
+0c97bd23967e23f9     20f258be-5d1b-4639-a99f-df4e7972d64b   Notsobad Privacy          2017-05-26 22:09:59.667 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 987
+-------------------
+5717d0233957a3ac     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.580 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 988 for user 5914cf02-5659-4925-bdb7-2fbe34df6ab7
+5717d0233957a3ac     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.671 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 988
+-------------------
+96f360fa2f05f43a     530fec01-40a5-41ec-bab0-d12b39dd371d   NeverAgain                2017-05-26 22:09:59.580 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 962 for user 530fec01-40a5-41ec-bab0-d12b39dd371d
+96f360fa2f05f43a     530fec01-40a5-41ec-bab0-d12b39dd371d   NeverAgain                2017-05-26 22:09:59.672 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 962
+-------------------
+20628ec8bcd07d19     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.675 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 985 for user 68bbdd3a-925b-44e9-827a-42e4057611c1
+20628ec8bcd07d19     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.675 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 985
+-------------------
+46f659587293fb3b     f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d   What Where When           2017-05-26 22:09:59.584 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 978 for user f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d
+46f659587293fb3b     f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d   What Where When           2017-05-26 22:09:59.678 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 978
+-------------------
+ea3e8d7307c57169     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.679 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 957 for user 0b2b7541-5239-4a98-91a8-3082107b77dd
+ea3e8d7307c57169     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.787 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 957
+-------------------
+739c4538f7a8ba3c     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.679 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 997 for user 4ab00d77-b960-473e-ae22-7c3b503d525e
+739c4538f7a8ba3c     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.679 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 997
+-------------------
+3c58f8fccd1b30db     e8edb09b-b5c9-4650-a047-6a11b0f58bf2   NeverAgain                2017-05-26 22:09:59.683 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 964 for user e8edb09b-b5c9-4650-a047-6a11b0f58bf2
+3c58f8fccd1b30db     e8edb09b-b5c9-4650-a047-6a11b0f58bf2   NeverAgain                2017-05-26 22:09:59.683 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 964
+-------------------
+2ba001b036d8180a     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.685 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 974 for user 4ab00d77-b960-473e-ae22-7c3b503d525e
+2ba001b036d8180a     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.790 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 974
+-------------------
+a17caa5e14fd6749     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.587 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 969 for user d4a4afc5-876c-456c-bd7c-f354b81f386f
+a17caa5e14fd6749     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.685 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 969
+-------------------
+0590521bfcf5bbf8     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.690 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 961 for user 68bbdd3a-925b-44e9-827a-42e4057611c1
+0590521bfcf5bbf8     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.793 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 961
+-------------------
+2ca6a36c522b9472     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.692 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 980 for user 4ab00d77-b960-473e-ae22-7c3b503d525e
+2ca6a36c522b9472     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.794 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 980
+-------------------
+2bc18d0ba7c5c621     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.591 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 965 for user 9a626c6f-4952-4f58-b411-ce7a5d682aae
+2bc18d0ba7c5c621     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.692 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 965
+-------------------
+b61cbf4fa69d73d1     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.694 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 969 for user 9e39248f-de28-4f25-a930-df06c21d9066
+b61cbf4fa69d73d1     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.795 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 969
+-------------------
+15f78bb3673e9b45     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.694 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 992 for user 0b2b7541-5239-4a98-91a8-3082107b77dd
+15f78bb3673e9b45     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.694 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 992
+-------------------
+4d889defcd1498ec     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.695 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 983 for user 68bbdd3a-925b-44e9-827a-42e4057611c1
+4d889defcd1498ec     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.695 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 983
+-------------------
+2300bfe0ce065f41     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.697 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 962 for user 1ebb238e-cafe-4d48-b145-2c582bacd0a2
+2300bfe0ce065f41     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.797 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 962
+-------------------
+478f0e53e2f0e433     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.697 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 979 for user 0b2b7541-5239-4a98-91a8-3082107b77dd
+478f0e53e2f0e433     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.797 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 979
+-------------------
+842e480611b3d83a     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.697 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 972 for user 1510a347-2fd9-4c32-b98f-29ad3c02900c
+842e480611b3d83a     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.697 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 972
+-------------------
+b2f0011cf92cce12     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.698 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 958 for user 4ab00d77-b960-473e-ae22-7c3b503d525e
+b2f0011cf92cce12     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.698 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 958
+-------------------
+6254247b39f345a6     20f258be-5d1b-4639-a99f-df4e7972d64b   Notsobad Privacy          2017-05-26 22:09:59.698 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 954 for user 20f258be-5d1b-4639-a99f-df4e7972d64b
+6254247b39f345a6     20f258be-5d1b-4639-a99f-df4e7972d64b   Notsobad Privacy          2017-05-26 22:09:59.698 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 954
+-------------------
+867da88042518d61     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.593 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 967 for user b35e269c-c52d-469f-b234-d627a69a4fc2
+867da88042518d61     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.698 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 967
+-------------------
+1e2c01a8d067721d     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.699 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 958 for user 9e39248f-de28-4f25-a930-df06c21d9066
+1e2c01a8d067721d     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.799 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 958
+-------------------
+fa897d60c3614751     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.699 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 983 for user 5914cf02-5659-4925-bdb7-2fbe34df6ab7
+fa897d60c3614751     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.799 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 983
+-------------------
+19828f7ae6d2b3cd     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.699 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 970 for user 076ee4b2-d387-4704-84a8-39d7c1acbd4e
+19828f7ae6d2b3cd     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.700 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 970
+-------------------
+7d013362007dc74e     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.594 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 963 for user 9a626c6f-4952-4f58-b411-ce7a5d682aae
+7d013362007dc74e     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.700 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 963
+-------------------
+e4d3ccda795eb80f     20f258be-5d1b-4639-a99f-df4e7972d64b   Notsobad Privacy          2017-05-26 22:09:59.705 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 976 for user 20f258be-5d1b-4639-a99f-df4e7972d64b
+e4d3ccda795eb80f     20f258be-5d1b-4639-a99f-df4e7972d64b   Notsobad Privacy          2017-05-26 22:09:59.803 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 976
+-------------------
+2d3ae9a85030ccf0     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.597 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 960 for user 1510a347-2fd9-4c32-b98f-29ad3c02900c
+2d3ae9a85030ccf0     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.706 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 960
+-------------------
+01a34a6594249565     e8edb09b-b5c9-4650-a047-6a11b0f58bf2   NeverAgain                2017-05-26 22:09:59.600 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 977 for user e8edb09b-b5c9-4650-a047-6a11b0f58bf2
+01a34a6594249565     e8edb09b-b5c9-4650-a047-6a11b0f58bf2   NeverAgain                2017-05-26 22:09:59.712 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 977
+-------------------
+6e66085b9352954e     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.713 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 992 for user 68bbdd3a-925b-44e9-827a-42e4057611c1
+6e66085b9352954e     68bbdd3a-925b-44e9-827a-42e4057611c1   Woo Inc.                  2017-05-26 22:09:59.713 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 992
+-------------------
+92a8b1f8c9272ade     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.716 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 967 for user 3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe
+92a8b1f8c9272ade     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.716 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 967
+-------------------
+e12b5c4b02096dfc     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.605 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 997 for user b35e269c-c52d-469f-b234-d627a69a4fc2
+e12b5c4b02096dfc     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.723 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 997
+-------------------
+9da24e20ad76931b     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.605 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 990 for user 1510a347-2fd9-4c32-b98f-29ad3c02900c
+9da24e20ad76931b     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.723 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 990
+-------------------
+efd568b7baa13ae0     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.614 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 961 for user 9a626c6f-4952-4f58-b411-ce7a5d682aae
+efd568b7baa13ae0     9a626c6f-4952-4f58-b411-ce7a5d682aae   Never Boring Entertaiment 2017-05-26 22:09:59.740 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 961
+-------------------
+1cadefc3b8494187     7c5873b7-25ee-4a78-b538-defdbc45bf30   BestCompanyEver           2017-05-26 22:09:59.614 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 999 for user 7c5873b7-25ee-4a78-b538-defdbc45bf30
+1cadefc3b8494187     7c5873b7-25ee-4a78-b538-defdbc45bf30   BestCompanyEver           2017-05-26 22:09:59.740 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 999
+-------------------
+1c7aa100a863ad8c     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.616 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 952 for user 1ebb238e-cafe-4d48-b145-2c582bacd0a2
+1c7aa100a863ad8c     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.743 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 952
+-------------------
+1dc368a2e6adbf0e     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.616 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 989 for user b35e269c-c52d-469f-b234-d627a69a4fc2
+1dc368a2e6adbf0e     b35e269c-c52d-469f-b234-d627a69a4fc2   Splitbus                  2017-05-26 22:09:59.743 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 989
+-------------------
+3480dfa10061fef6     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.621 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 966 for user a0eaa041-9299-4921-b490-2ebbf69b7e80
+3480dfa10061fef6     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.747 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 966
+-------------------
+601a8986be66f219     e8edb09b-b5c9-4650-a047-6a11b0f58bf2   NeverAgain                2017-05-26 22:09:59.623 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 985 for user e8edb09b-b5c9-4650-a047-6a11b0f58bf2
+601a8986be66f219     e8edb09b-b5c9-4650-a047-6a11b0f58bf2   NeverAgain                2017-05-26 22:09:59.750 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 985
+-------------------
+eda816748783f4da     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.626 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 956 for user 076ee4b2-d387-4704-84a8-39d7c1acbd4e
+eda816748783f4da     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.752 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 956
+-------------------
+624747ba378e5232     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.627 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 955 for user d4a4afc5-876c-456c-bd7c-f354b81f386f
+624747ba378e5232     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.753 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 955
+-------------------
+5c8dff6d07fadc98     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.629 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 969 for user 0b2b7541-5239-4a98-91a8-3082107b77dd
+5c8dff6d07fadc98     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.755 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 969
+-------------------
+9247323632fc47a0     e8edb09b-b5c9-4650-a047-6a11b0f58bf2   NeverAgain                2017-05-26 22:09:59.632 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 975 for user e8edb09b-b5c9-4650-a047-6a11b0f58bf2
+9247323632fc47a0     e8edb09b-b5c9-4650-a047-6a11b0f58bf2   NeverAgain                2017-05-26 22:09:59.757 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 975
+-------------------
+e7431adf17bfde7d     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.638 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 974 for user 0b2b7541-5239-4a98-91a8-3082107b77dd
+e7431adf17bfde7d     0b2b7541-5239-4a98-91a8-3082107b77dd   MAGA Ind.                 2017-05-26 22:09:59.762 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 974
+-------------------
+b93bd81ba5908e03     982fe57d-5f18-41c9-9f08-1bbfe60ed821   BestCompanyEver           2017-05-26 22:09:59.647 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 960 for user 982fe57d-5f18-41c9-9f08-1bbfe60ed821
+b93bd81ba5908e03     982fe57d-5f18-41c9-9f08-1bbfe60ed821   BestCompanyEver           2017-05-26 22:09:59.767 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 960
+-------------------
+1030af4824bcac6c     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.647 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 997 for user a0eaa041-9299-4921-b490-2ebbf69b7e80
+1030af4824bcac6c     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.767 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 997
+-------------------
+400e6233a0926608     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.647 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 972 for user 4ab00d77-b960-473e-ae22-7c3b503d525e
+400e6233a0926608     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.768 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 972
+-------------------
+2de66f09dcf84b78     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.652 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 990 for user 3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe
+2de66f09dcf84b78     3fa9ee54-dbdc-4b5f-914e-cb92fccec6fe   MAGA Ind.                 2017-05-26 22:09:59.770 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 990
+-------------------
+0f25ac9152516681     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.655 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 992 for user 1510a347-2fd9-4c32-b98f-29ad3c02900c
+0f25ac9152516681     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.772 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 992
+-------------------
+9d92efff4fbf97ab     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.663 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 995 for user 1510a347-2fd9-4c32-b98f-29ad3c02900c
+9d92efff4fbf97ab     1510a347-2fd9-4c32-b98f-29ad3c02900c   Woo Inc.                  2017-05-26 22:09:59.777 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 995
+-------------------
+a3baa8f10d102dd4     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.663 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 991 for user d4a4afc5-876c-456c-bd7c-f354b81f386f
+a3baa8f10d102dd4     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.777 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 991
+-------------------
+f94f8daa98d72e04     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.663 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 951 for user 5914cf02-5659-4925-bdb7-2fbe34df6ab7
+f94f8daa98d72e04     5914cf02-5659-4925-bdb7-2fbe34df6ab7   Pariwise                  2017-05-26 22:09:59.777 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 951
+-------------------
+6115344045b7bb6f     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.667 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 965 for user a0eaa041-9299-4921-b490-2ebbf69b7e80
+6115344045b7bb6f     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.780 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 965
+-------------------
+c81dec3a3ef5a621     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.672 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 968 for user 4ab00d77-b960-473e-ae22-7c3b503d525e
+c81dec3a3ef5a621     4ab00d77-b960-473e-ae22-7c3b503d525e   Splitbus                  2017-05-26 22:09:59.783 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 968
+-------------------
+87aa30f72b1fa10d     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.677 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 963 for user 1ebb238e-cafe-4d48-b145-2c582bacd0a2
+87aa30f72b1fa10d     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.786 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 963
+-------------------
+3ebc7d0bf3881221     f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d   What Where When           2017-05-26 22:09:59.678 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 966 for user f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d
+3ebc7d0bf3881221     f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d   What Where When           2017-05-26 22:09:59.786 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 966
+-------------------
+b07d90c3e791729a     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.690 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 957 for user 076ee4b2-d387-4704-84a8-39d7c1acbd4e
+b07d90c3e791729a     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.793 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 957
+-------------------
+5aa2d826a44b94b0     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.693 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 984 for user d4a4afc5-876c-456c-bd7c-f354b81f386f
+5aa2d826a44b94b0     d4a4afc5-876c-456c-bd7c-f354b81f386f   What Where When           2017-05-26 22:09:59.795 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 984
+-------------------
+41b1ef83c6193fa2     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.693 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 988 for user 9e39248f-de28-4f25-a930-df06c21d9066
+41b1ef83c6193fa2     9e39248f-de28-4f25-a930-df06c21d9066   Never Boring Entertaiment 2017-05-26 22:09:59.795 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 988
+-------------------
+6c15fbf87b551844     f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d   What Where When           2017-05-26 22:09:59.693 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 979 for user f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d
+6c15fbf87b551844     f7f4bf6f-7b98-4656-9dea-ff6b7fa1600d   What Where When           2017-05-26 22:09:59.795 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 979
+-------------------
+d1f8456fe427e4ba     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.704 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 976 for user 076ee4b2-d387-4704-84a8-39d7c1acbd4e
+d1f8456fe427e4ba     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.803 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 976
+-------------------
+0a9b4a3f55b9e4a4     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.708 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 972 for user a0eaa041-9299-4921-b490-2ebbf69b7e80
+0a9b4a3f55b9e4a4     a0eaa041-9299-4921-b490-2ebbf69b7e80   Notsobad Privacy          2017-05-26 22:09:59.808 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 972
+-------------------
+17f2bbf25b5c232f     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.714 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 978 for user 076ee4b2-d387-4704-84a8-39d7c1acbd4e
+17f2bbf25b5c232f     076ee4b2-d387-4704-84a8-39d7c1acbd4e   Pariwise                  2017-05-26 22:09:59.814 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 978
+-------------------
+1c37f9ba74358411     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.714 INFO  c.v.s.puzzle.service.SavingsService      Saving amount 963 for user 1ebb238e-cafe-4d48-b145-2c582bacd0a2
+1c37f9ba74358411     1ebb238e-cafe-4d48-b145-2c582bacd0a2   OneMoreTime Ltd.          2017-05-26 22:09:59.814 ERROR c.v.s.puzzle.service.SavingsService      Amount is too big: 963
+-------------------
